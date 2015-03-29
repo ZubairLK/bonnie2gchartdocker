@@ -36,6 +36,16 @@ Then run the created docker image using
 
 zubairlk/bonnie is the image name. You can change it.
 
+Check localhost:8080/bonnie for the graph.
+
+Edit the sample/bonnie.csv file with your bonnie benchmarks.
+
+Refresh the page. And you should see the chart updated.
+
+Enjoy.
+
+If you find a bug, send a pull-request. :)
+
 [1] http://pommi.nethuis.nl/bonnie-to-google-chart/
 
 [2] https://github.com/pommi/bonnie2gchart/
